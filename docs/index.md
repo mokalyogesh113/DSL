@@ -16,30 +16,30 @@ D 100 <br>
 Then, the output should be: 500](https://github.com/mokalyogesh113/DSL/tree/main/Ass%20A-4)
 <br><br>
 
-3. [**Assignment 5**  - Write a Python program to compute following operations on String:
-    a) To display word with the longest length
-    b) To determines the frequency of occurrence of particular character in the string
-    c) To check whether given string is palindrome or not 
-    d) To display index of first appearance of the substring
+3. [**Assignment 5**  - Write a Python program to compute following operations on String: <br>
+    a) To display word with the longest length <br>
+    b) To determines the frequency of occurrence of particular character in the string <br>
+    c) To check whether given string is palindrome or not <br>
+    d) To display index of first appearance of the substring <br>
     e) To count the occurrences of each word in a given string](https://github.com/mokalyogesh113/DSL/tree/main/Ass%20A-5)
 <br><br>
 
-4. [**Assignment 9**  - Write a python program to compute following computation on matrix:
-    a) Addition of two matrices
-    b) Subtraction of two matrices
-    c) Multiplication of two matrices
+4. [**Assignment 9**  - Write a python program to compute following computation on matrix:<br>
+    a) Addition of two matrices <br>
+    b) Subtraction of two matrices <br>
+    c) Multiplication of two matrices <br>
     d) Transpose of a matrix](https://github.com/mokalyogesh113/DSL/tree/main/Ass%20A-9)
 <br><br>
 
 ### Group B
 
 5. [**Assignment 12**  -  
-   a) Write a python program to store names and mobile numbers of your friends in sorted order on names. Search your friend from list using binary search (recursive and nonrecursive). Insert friend if not present in phonebook
+   a) Write a python program to store names and mobile numbers of your friends in sorted order on names. Search your friend from list using binary search (recursive and nonrecursive). Insert friend if not present in phonebook <br>
    b) Write a python program to store names and mobile numbers of your friends in sorted  order on names. Search your friend from list using Fibonacci search. Insert friend if not present in phonebook.](https://github.com/mokalyogesh113/DSL/tree/main/Ass%20B-12)
 <br><br>
 
-6. [**Assignment 14**  - Write a python program to store first year percentage of students in array. Write function for sorting array of floating point numbers in ascending order using 
-    a) Selection Sort 
+6. [**Assignment 14**  - Write a python program to store first year percentage of students in array. Write function for sorting array of floating point numbers in ascending order using <br> 
+    a) Selection Sort <br>
     b) Bubble sort and display top five scores.](https://github.com/mokalyogesh113/DSL/tree/main/Ass%20B-14)
 <br><br>
 
@@ -48,15 +48,15 @@ Then, the output should be: 500](https://github.com/mokalyogesh113/DSL/tree/main
 
 ### Group C
 
-7. [**Assignment 19**  - Department of Computer Engineering has student's club named 'Pinnacle Club'. Students of second, third and final year of department can be granted membership on request. Similarly one may cancel the membership of club. First node is reserved for president of club and last node is reserved for secretary of club. Write C++ program to maintain club member's information using singly linked list. Store student PRN and Name. Write functions to:
-    a) Add and delete the members as well as president or even secretary.
-    b) Compute total number of members of club
-    c) Display members
+7. [**Assignment 19**  - Department of Computer Engineering has student's club named 'Pinnacle Club'. Students of second, third and final year of department can be granted membership on request. Similarly one may cancel the membership of club. First node is reserved for president of club and last node is reserved for secretary of club. Write C++ program to maintain club member's information using singly linked list. Store student PRN and Name. Write functions to: <br>
+    a) Add and delete the members as well as president or even secretary. <br>
+    b) Compute total number of members of club <br>
+    c) Display members <br>
     d) Two linked lists exists for two divisions. Concatenate two lists.](https://github.com/mokalyogesh113/DSL/tree/main/Ass%20C-19)
 <br><br>
 
-8. [**Assignment 23**  - Write C++ program for storing binary number using doubly linked lists Write function 
-    a) To compute 1‘s and 2‘s complement 
+8. [**Assignment 23**  - Write C++ program for storing binary number using doubly linked lists Write function <br>
+    a) To compute 1‘s and 2‘s complement <br> 
     b) Add two binary numbers](https://github.com/mokalyogesh113/DSL/tree/main/Ass%20C-23)
 <br><br>
 
