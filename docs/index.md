@@ -1,18 +1,34 @@
 ## DSA LAB
 
 ### Group A
-1. [**Assignment 1**  - ]()
+1. [**Assignment 2**  - Write a Python program to store marks scored in subject “Fundamental of Data Structure” by N students in the class. Write functions to compute following:
+a) The average score of class 
+b) Highest score and lowest score of class 
+c) Count of students who were absent for the test
+d) Display mark with highest frequency](https://github.com/mokalyogesh113/DSL/tree/main/Ass%20A-2)
 <br><br>
 
-
-<!--
-1. [**Assignment 7**  - ]()
+2. [**Assignment 4**  -  Write a Python program that computes the net amount of a bank account based a transaction log from console input. The transaction log format is shown as following: D 100 W 200 (Withdrawal is not allowed if balance is going negative. Write functions for withdraw and deposit) D means deposit while W means withdrawal. Suppose the following input is supplied to the program: 
+D 300 
+D 300 
+W 200 
+D 100 
+Then, the output should be: 500](https://github.com/mokalyogesh113/DSL/tree/main/Ass%20A-4)
 <br><br>
 
-8. [**Assignment 8**  - ]()
+3. [**Assignment 5**  - Write a Python program to compute following operations on String:
+a) To display word with the longest length
+b) To determines the frequency of occurrence of particular character in the string
+c) To check whether given string is palindrome or not 
+d) To display index of first appearance of the substring
+e) To count the occurrences of each word in a given string](https://github.com/mokalyogesh113/DSL/tree/main/Ass%20A-5)
 <br><br>
 
-9. [**Assignment 9**  - ]()
+4. [**Assignment 9**  - Write a python program to compute following computation on matrix:
+a) Addition of two matrices
+b) Subtraction of two matrices
+c) Multiplication of two matrices
+d) Transpose of a matrix](https://github.com/mokalyogesh113/DSL/tree/main/Ass%20A-9)
 <br><br>
 
 10. [**Assignment 10**  - ]()
