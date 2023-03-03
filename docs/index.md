@@ -1,4 +1,4 @@
-## DSA LAB
+## Data Structures Lab
 
 ### Group A
 1. [**Assignment 2**  - Write a Python program to store marks scored in subject “Fundamental of Data Structure” by N students in the class. Write functions to compute following: <br>
